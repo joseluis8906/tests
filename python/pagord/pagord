@@ -1,0 +1,24 @@
+[indentation]
+indent_width=4
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+detect_indent_width=false
+indent_mode=2
+
+[project]
+name=pagord
+base_path=/home/joseluis/Developments/python/pagord
+description=
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=72
+
+[files]
+current_page=1
+FILE_NAME_0=113;Haskell;0;16;1;1;0;/home/joseluis/Developments2/haskell/baby.hs;0;4
+FILE_NAME_1=932;C;0;16;1;1;0;/home/joseluis/Developments/c/pagina.c;0;4
+
+[VTE]
+last_dir=/media/Datos2/Developments/c
