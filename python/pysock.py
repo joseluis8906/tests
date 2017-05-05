@@ -8,7 +8,7 @@ def getRandomOcteto ():
     return chr(randint(1, 255))
 
 s = socket(AF_PACKET, SOCK_RAW)
-s.bind(("enp0s25", 0))
+s.bind(("wls4", 0))
 
 # We're putting together an ethernet frame here, 
 # but you could have anything you want instead
@@ -16,13 +16,9 @@ s.bind(("enp0s25", 0))
 # flexible packing/unpacking of binary data
 # and 'binascii' for 32 bit CRC
 src_addr = "\x6f\x8a\x00\x12\xaa\x7b"
-payload = "x"*64
+payload = "a"*64
 ethertype = "\x08\x01"
 
-#for _ in range(int(sys.argv[1])):
-i=0
-while (True):
+for _ in range(25):
     dst_addr = ""+getRandomOcteto()+""+getRandomOcteto()+""+getRandomOcteto()+""+getRandomOcteto()+""+getRandomOcteto()+""+getRandomOcteto()
-    s.send(src_addr + dst_addr + ethertype + payload)
-    print ("Enviando 64 Bytes en enp0s25 %s veces" % i) 
-    i+=1
+    s.send(src_addr + dst_addr + ethertype + payload) 
