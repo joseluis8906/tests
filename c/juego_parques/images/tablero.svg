@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="592.3208"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="tablero.svg">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4309">
+      <path
+         sodipodi:nodetypes="zzzzz"
+         inkscape:connector-curvature="0"
+         id="path4311"
+         d="m 583.33537,91.069092 c 7.45777,-33.326274 42.7412,-49.342021 73.66431,-45.872923 30.92311,3.469073 56.52449,30.719215 50.02813,59.749261 -6.49637,29.03004 -40.17271,49.63016 -73.66433,45.87294 -33.49161,-3.75723 -57.48588,-26.423 -50.02811,-59.749278 z"
+         style="fill:none;stroke:#000000;stroke-width:1.3491596px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1103516"
+     inkscape:cx="512"
+     inkscape:cy="296.1604"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-grids="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="750"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-nodes="true"
+     inkscape:snap-global="true"
+     inkscape:snap-page="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-midpoints="true">
+    <sodipodi:guide
+       orientation="-0.5,0.8660254"
+       position="717.25796,473.20291"
+       id="guide3009" />
+    <sodipodi:guide
+       orientation="0.5,0.8660254"
+       position="205.45584,414.55379"
+       id="guide3011" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-4.7256462,-29.108948)">
+    <path
+       style="fill:#6c5353;stroke:#000000;stroke-width:1.28098130000000010px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 516.97364,29.749438 1028.0852,325.12616 516.97364,620.78925 5.3661368,325.12616 z"
+       id="path3059"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/joseluis/Documents/Developments/c/juego_parques/images/tablero.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 211.83506,-146.91983 109.42742,-87.794739 7.0197786,-28.669659 -95.387871,30.455411 -197.79551,89.580501 -300.20318,148.70563"
+       id="path3022"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#7fff2a;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 921.70491,237.24106 870.5716,266.7629 c -51.13332,29.52183 -51.13332,29.52183 -0.20407,58.92585 l 50.92925,29.40401 102.06282,-59.07555 z"
+       id="path3024"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/joseluis/Documents/Developments/c/juego_parques/images/tablero.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(4.7256462,29.108948)" />
+    <path
+       style="fill:#ffff00;stroke:#000000;stroke-width:0.99374831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 567.89057,532.2166 51.16091,29.17922 -102.07539,59.04762 -101.29421,-58.53894 50.52389,-29.43356 c 51.10721,-29.24319 51.10721,-29.24319 101.6848,-0.25434 z"
+       id="path3001"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/joseluis/Documents/Developments/c/juego_parques/images/tablero.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#87decd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 154.12149,266.40566 103.33831,236.7246 0.6404906,296.01721 102.74602,355.06806 153.82535,325.5774 c 51.70526,-29.85205 51.70526,-29.85205 0.29614,-59.17174 z"
+       id="path3003"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/joseluis/Documents/Developments/c/juego_parques/images/tablero.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(4.7256462,29.108948)" />
+    <path
+       style="fill:#ff5555;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 563.22014,89.2132 614.44028,59.64124 513.18197,0.10148146 410.58569,59.335251 461.29285,89.060205 C 512.77798,118.336 512.77798,118.336 563.22014,89.2132 z"
+       id="path3005"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/joseluis/Documents/Developments/c/juego_parques/images/tablero.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(4.7256462,29.108948)" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path3007"
+       d="M 235.4949,783.5121 133.08725,724.38702 30.679613,665.26195 -71.728027,606.13685 -174.13569,547.01178 -276.54339,487.8867"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#dbe3e2;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 410.31653,532.77309 50.84174,-29.61873 C 512.587,473.7272 512.587,473.7272 563.48277,502.89842 l 51.48276,29.36279 101.0828,-58.5617 -102.02414,-59.207 C 512.00005,355.2855 512.00005,355.2855 409.74434,414.32286 l -102.2557,59.03736 z"
+       id="path3013"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/joseluis/Documents/Developments/c/juego_parques/images/tablero.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(4.7256462,29.108948)" />
+    <path
+       style="fill:#dbe3e2;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 819.37852,413.96528 717.23248,354.99124 C 615.08645,296.0172 615.08645,296.0172 717.20421,237.05948 l 102.11777,-58.95772 102.35794,59.15373 -51.12082,29.51462 c -51.12082,29.51462 -51.12082,29.51462 -0.2068,58.90984 l 50.91401,29.39522 z"
+       id="path3023"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/joseluis/Documents/Developments/c/juego_parques/images/tablero.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(4.7256462,29.108948)" />
+    <path
+       style="fill:#dbe3e2;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 717.25795,119.11789 614.96837,178.005 C 512.67879,236.89211 512.67879,236.89211 410.27114,177.76702 L 307.86348,118.64194 410.58569,59.335251 461.29285,89.060205 C 512.77798,118.336 512.77798,118.336 563.19537,89.227504 l 51.19536,-29.557657 z"
+       id="path3027"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/joseluis/Documents/Developments/c/juego_parques/images/tablero.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(4.7256462,29.108948)" />
+    <path
+       style="fill:#dbe3e2;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 205.45584,177.76701 102.40765,59.12509 c 102.70178,59.29489 102.70178,59.29489 -0.0388,118.27258 l -102.44645,59.14749 -102.59496,-59.26562 51.0607,-29.47991 c 51.0607,-29.47991 51.0607,-29.47991 0.27751,-59.16098 L 103.33831,236.7246 z"
+       id="path3029"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/joseluis/Documents/Developments/c/juego_parques/images/tablero.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(4.7256462,29.108948)"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       id="path3040"
+       transform="translate(4.7256462,29.108948)"
+       style="fill:#ff5555;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 717.25797,119.11788 819.3351,178.09418 614.90484,296.07823 C 561.47765,296.05673 512.67879,269.62461 512.6788,236.89214 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/joseluis/Documents/Developments/c/juego_parques/images/tablero.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path3026"
+       transform="translate(4.7256462,29.108948)"
+       style="fill:#87decd;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 512.67879,236.89211 0,0 c 0,32.73244 -47.75003,59.29489 -102.11352,59.29489 C 340.96656,261.97835 273.75703,217.21903 205.45585,177.76701 l 102.40763,-59.12507 204.81531,118.25017 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/joseluis/Documents/Developments/c/juego_parques/images/tablero.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 614.90484 296.07823 C 615.06127 296.08244 615.2176 296.08687 615.37384 296.09152 "
+       id="path3841"
+       transform="translate(4.7256462,29.108948)"
+       inkscape:export-filename="/home/joseluis/Documents/Developments/c/juego_parques/images/tablero.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path3839"
+       transform="translate(4.7256462,29.108948)"
+       style="fill:#7fff2a;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 512.00005,355.2855 c 0,-32.73244 48.5413,-59.20727 102.90479,-59.20727 69.37155,32.90987 136.52269,78.68311 204.47368,117.88705 l -103.33019,59.73423 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/joseluis/Documents/Developments/c/juego_parques/images/tablero.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path3854"
+       transform="translate(4.7256462,29.108948)"
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 410.56527,296.187 c 54.36349,0 101.90562,26.16245 101.43478,59.0985 L 307.49937,473.35406 202.37727,414.48098 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/joseluis/Documents/Developments/c/juego_parques/images/tablero.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

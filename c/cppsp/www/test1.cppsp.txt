@@ -1,0 +1,42 @@
+
+
+
+<html>
+	<head>
+		<title>fgdhjf</title>
+	</head>
+	<body>
+		<table border="1">
+			<tr>
+				<td>UID: </td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>GID: </td>
+				<td></td>
+			</tr>
+		</table>
+		<form method="post" action="1.cppsp?a=1111111&b=222222">
+			<input type="text" name="input1" /><br />
+			<input type="text" name="input2" />
+			<input type="submit" value="click here" />
+		</form>
+		
+		
+		s
+		gsjdhkh
+		test1
+		
+			gfdsgsfdgdsf<br />
+			
+		<br />
+		<br />=============================<br />
+		<table border="1">
+		
+			<tr>
+				<td></td>
+			</tr>
+			
+		</table>
+	</body>
+</html>

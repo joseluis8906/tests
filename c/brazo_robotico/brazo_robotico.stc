@@ -1,0 +1,106 @@
+
+# This file was written by gpsim.
+
+# You can use this file for example like this:
+#     gpsim -s mycode.cod -c netlist.stc
+
+# If you want to add commands, you can create another .stc file
+# and load this file from it. Something like this:
+# ----------- myproject.stc ---------------
+# load s mycode.cod
+# frequency 12000000
+# load c netlist.stc
+# -----------------------------------------
+# You can then just load this new file:
+#     gpsim -c myproject.stc
+# and use netlist.stc whenever you save from the breadboard.
+#
+
+
+# Processor position:
+module library libgpsim_modules
+
+
+# Modules:
+p18f4550.BreakOnReset = true
+p18f4550.SafeMode = true
+p18f4550.UnknownMode = true
+p18f4550.WarnMode = true
+p18f4550.tmr1_freq = 32768
+p18f4550.xpos = 324
+p18f4550.ypos = 120
+
+module load led led1
+led1.ActiveState = high
+led1.color = blue
+led1.xpos = 72
+led1.ypos = 300
+
+module load led led2
+led2.ActiveState = high
+led2.color = red
+led2.xpos = 72
+led2.ypos = 240
+
+module load led led3
+led3.ActiveState = high
+led3.color = green
+led3.xpos = 72
+led3.ypos = 180
+
+module load led led4
+led4.ActiveState = high
+led4.color = blue
+led4.xpos = 72
+led4.ypos = 120
+
+module load led led5
+led5.ActiveState = high
+led5.color = red
+led5.xpos = 72
+led5.ypos = 60
+
+
+
+module load usart usart1
+usart1.rxbaud = 38400
+usart1.txbaud = 38400
+usart1.xpos = 552
+usart1.ypos = 288
+
+
+
+
+# Connections:
+node n1
+attach n1 portb0 led1.in
+
+node n2
+attach n2 portb1 led2.in
+
+node n3
+attach n3 portb2 led3.in
+
+node n4
+attach n4 portb3 led4.in
+
+node n5
+attach n5 portb4 led5.in
+
+node n6
+attach n6 portc7 usart1.TXPIN
+
+node n7
+attach n7 portc6 usart1.RXPIN
+
+
+frequency 48000000
+
+#scope:
+scope.ch0="portb0"
+scope.ch1="portb1"
+scope.ch2="portb2"
+scope.ch3="portb3"
+scope.ch4="portb4"
+
+# End.

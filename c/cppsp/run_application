@@ -1,0 +1,4 @@
+#!/bin/bash
+# usage: run_application /ABSOLUTE/PATH/TO/APPLICATION
+
+./cppsp_standalone -f -l 0.0.0.0:16969 -c -fPIC -c -I"$(pwd)"/include -c -pthread -c -Ofast -c -march=native -c "$(pwd)"/cpoll.o -c "$(pwd)"/cppsp.o -r "$(pwd)/www/cdi" -m "/url_maps.cppsm" 

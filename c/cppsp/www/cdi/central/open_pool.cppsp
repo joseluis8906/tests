@@ -1,0 +1,9 @@
+<%open_pool ();%><%!-O3%>
+<%$
+void open_pool ()
+{
+    this->response->headers["Content-type"] = "text/plain";
+    const char* message = "Pool opened!";
+    this->response->write (message);
+}
+%>

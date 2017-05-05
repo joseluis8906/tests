@@ -1,0 +1,35 @@
+GtkWindow.main1
+{
+    /*background: rgb(240, 240, 240);*/
+    background: #F3E5F5;
+}
+
+GtkLabel.l1
+{
+    /*background: rgb(40, 190, 160);*/
+    background: #673AB7;
+    color: rgb(245, 245, 245);
+    font-weight: bold;
+    font-family: Cantarell;
+    padding: 30px 10px;
+}
+
+GtkEntry
+{
+    background: transparent;
+    border: 0px solid transparent;
+    /*border-bottom: 1px solid rgb(40, 190, 160);*/
+    border-bottom: 1px solid #512DA8;
+    border-radius: 0px;
+    color: rgb(60, 60,60);
+}
+
+GtkButton
+{
+    /*background: rgb(40, 190, 160);*/
+    background: #FFC107;
+    color: rgb(245, 245,245);
+    font-weight: bold;
+    font-family: Cantarell;
+    border: none;
+}

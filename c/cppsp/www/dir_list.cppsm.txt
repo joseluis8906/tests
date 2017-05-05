@@ -1,0 +1,35 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Index of </title>
+</head>
+<body>
+<h1 style="margin-top: 2px;">Index of </h1>
+<table>
+	<tr>
+		<th>Name</th>
+		<th>Last modified</th>
+		<th>Size</th>
+	</tr>
+	<tr>
+		<th colspan="5"><hr /></th>
+	</tr>
+	
+
+	<tr>
+		<td>
+			<a href="/">
+				/
+			</a>
+		</td>
+		<td align="right"></td>
+		<td align="right"></td>
+	</tr>
+	<tr>
+		<td></td>
+	</tr>
+	
+</table>
+</body>
+</html>

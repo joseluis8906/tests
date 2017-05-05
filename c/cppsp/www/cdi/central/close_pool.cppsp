@@ -1,0 +1,9 @@
+<%close_pool ();%><%!-O3%>
+<%$
+void close_pool ()
+{
+    this->response->headers["Content-type"] = "text/plain";
+    const char* message = "Pool closed!";
+    this->response->write (message);
+}
+%>
